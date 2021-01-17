@@ -1,4 +1,2 @@
 # hello-world
-oh-no
-hhhhhh
-beautiful
+my name is xmy
